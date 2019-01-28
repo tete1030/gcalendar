@@ -1,0 +1,8 @@
+header {
+	padding-top: 10px;
+	-webkit-app-region: drag;
+}
+
+header div[role="button"] {
+	-webkit-app-region: no-drag;
+}

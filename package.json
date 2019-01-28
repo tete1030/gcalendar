@@ -1,0 +1,14 @@
+{
+  "name": "gcalendar",
+  "version": "1.0.0",
+  "description": "Use nativefier to make native Google Calendar app",
+  "main": "calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Texot",
+  "license": "GPLv3",
+  "dependencies": {
+    "nativefier": "^7.6.10"
+  }
+}
